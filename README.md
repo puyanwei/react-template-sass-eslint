@@ -10,8 +10,10 @@ This template is working off [create-react-app](https://github.com/facebook/crea
 ### Installation
 
 ```
-git clone
+git clone git@github.com:puyanwei/react-template-sass-eslint.git
 cd react-template
 npm install
 npm start
 ```
+
+Remember to change the remote url to your own repository!
